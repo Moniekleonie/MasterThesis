@@ -11,3 +11,8 @@ Nguyen, H. T., & Le Nguyen, M. (2018). Multilingual opinion mining on YouTube–
 Collected Youtube data: https://drive.google.com/file/d/1C6yyEUjAquM-SOn-B03_ZPCysl69Zbk9/view?usp=sharing
 
 Semi-supervised corpus: https://drive.google.com/file/d/1twSomQ3NMk9ixzyjIF78mzkPnnDHyu6v/view?usp=sharing
+
+Sentiment Lexicons used:
+
+English: https://github.com/aesuli/sentiwordnet
+Italian: http://valeriobasile.github.io/twita/sentix.html
