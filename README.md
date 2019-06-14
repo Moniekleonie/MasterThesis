@@ -19,3 +19,5 @@ Sentiment Lexicons used:
 English: https://github.com/aesuli/sentiwordnet
 
 Italian: http://valeriobasile.github.io/twita/sentix.html
+
+For retrofitting used module by: https://github.com/mfaruqui/retrofitting
