@@ -24,3 +24,4 @@ For retrofitting used module by: https://github.com/mfaruqui/retrofitting
 
 
 English embeddings: https://drive.google.com/drive/folders/1dea5We1Rur45KIderM4ETAZlZN8Vm8xE?usp=sharing
+Italian embeddings: https://drive.google.com/drive/folders/1rRdsGwnb95_qB0DliqrIJCcNPsb1Gxbr?usp=sharing
